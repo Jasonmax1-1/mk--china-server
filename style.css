@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'Chinese';
-    src: url('Fronts/Chinese.otf') format('opentype');
+    src: url('Chinese.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'EnglishBold';
-    src: url('Fronts/English_and_Number_BOLD.ttf') format('truetype');
+    src: url('English_and_Number_BOLD.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'EnglishRegular';
-    src: url('Fronts/English_and_Number_REGULAR.ttf') format('truetype');
+    src: url('English_and_Number_REGULAR.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
